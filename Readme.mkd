@@ -1,9 +1,0 @@
-Echo is a Lucene based Indexing + Search system for ebooks which utilizes various public APIs (such as Google Books, Amazon) to index data. 
-
-Its prime features are :
-* Distributed Indexing
-* Cluster based storage model
-* DHT support
-* Web based front end
-
-All work is copyright SDSLabs, IIT Roorkee
